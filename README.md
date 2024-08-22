@@ -48,6 +48,6 @@ Here are some ideas to get you started:
   <summary><h1>📩 Contact</h1></summary>
 
 - [![Gmail]](mailto:heberrossi12@gmail.com)
-- [![Linkedin](https://t.ctcdn.com.br/IwwDh-BajTE4ZwE4zuIcvz9Q2ZY=/i490027.jpeg)](https://www.linkedin.com/in/heber-rossi/)
+- [![Linkedin](https://static.vecteezy.com/ti/vetor-gratis/p3/18910724-do-logotipo-do-linkedin-simbolo-do-linkedin-gratis-do-icone-do-linkedin-gratis-vetor.jpg)](https://www.linkedin.com/in/heber-rossi/)
 
 
