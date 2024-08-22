@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <details open>
   <summary><h1>📩 Contact</h1></summary>
 
-- [![Yahoo Badge]](mailto:heberrossi12@gmail.com)
-- [![Linkedin Badge]]([https://www.linkedin.com/in/rhatiro/](https://www.linkedin.com/in/heber-rossi/))
+- [![Gmail]](mailto:heberrossi12@gmail.com)
+- [![Linkedin]](](https://www.linkedin.com/in/heber-rossi/))
 
 
