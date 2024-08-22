@@ -44,3 +44,10 @@ Here are some ideas to get you started:
 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)]()
 
+<details open>
+  <summary><h1>📩 Contact</h1></summary>
+
+- [![Yahoo Badge]](mailto:heberrossi12@gmail.com)
+- [![Linkedin Badge]]([https://www.linkedin.com/in/rhatiro/](https://www.linkedin.com/in/heber-rossi/))
+
+
