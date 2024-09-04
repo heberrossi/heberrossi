@@ -1,5 +1,8 @@
 ## Prazer 👋
 
+###### Sobre o Heber
+Cientista de Dados formado pela EBAC – Escola Britânica de Artes Criativas e Tecnologia. Habilidades técnicas em Python, SQL, Amazon S3, Amazon Athena, Power BI, Visualização de Dados e Machine Learning.
+
 <details open>
   <summary>
     <h1>💻 Technologies</h1>
@@ -28,6 +31,15 @@
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?logo=PyCharm&logoColor=white)]()
 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)]()
+
+<!--  -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhatiro&theme=transparent)]() -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heberrossi&layout=compact&theme=transparent)]()
+[![Heber's GitHub stats](https://github-readme-stats.vercel.app/api?username=heberrossi&theme=transparent)]()
+
+<!--  -->
 
 <details open>
   <summary><h1>📩 Contact</h1></summary>
