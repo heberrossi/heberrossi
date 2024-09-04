@@ -44,7 +44,7 @@ Cientista de Dados formado pela EBAC – Escola Britânica de Artes Criativas e 
 <details open>
   <summary><h1>📩 Contact</h1></summary>
 
-- [[Gmail]](mailto:heberrossi12@gmail.com)
-- [[Linkedin]](https://www.linkedin.com/in/heber-rossi/)
+- [![Gmail](https://img.shields.io/badge/Gmail-8A2BE2)](mailto:heberrossi12@gmail.com)
+- [![Linkedin](https://img.shields.io/badge/Linkedin-8A2BE2)](https://www.linkedin.com/in/heber-rossi/)
 
 
